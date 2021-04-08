@@ -1,0 +1,5 @@
+1. Importe a pasta no Eclipse
+2. Verifique se o arquivo persistence (localizado em src\main\resources\META-INF\persistence.xml) tem o usuário, senha, driver e dialeto compatível com seu banco de dados.
+3. Crie um banco de dados chamado tjwclientes
+4. Execute a classe ConsultasJPQL.java (que está no pacote br.edu.ifce.code) como uma aplicação Java
+5. Irá aparecer a resposta da questão 6
